@@ -10,7 +10,7 @@ $$ {&lt;script&gt;{&lt;button&gt;Test Button&lt;/button&gt;<!--}&lt;/script&gt;$
 
 
 
-$$/&lt;marquee&gt;This is fgg ggg &lt;&sol;marquee&gt;$$
+$$/&lt;marquee&gt;This is fgg ggg &lt;/marquee&gt;$$
 
 
 
