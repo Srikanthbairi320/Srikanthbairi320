@@ -8,7 +8,7 @@
 
 $$ {&lt;script&gt;{&lt;button&gt;Test Button&lt;/button&gt;<!--}&lt;/script&gt;$$
 
-&dollar;&dollar;&bsol;&lt;style&gt;&lcub;property&colon;value&rcub;&lt;&sol;style&gt;&lcub;&rcub;&dollar;&dollar;
+
 
 
 
