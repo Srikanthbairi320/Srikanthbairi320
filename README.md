@@ -6,6 +6,16 @@
 
 
 
-$$\<script>{&lt;button&gt;Test Button&lt;/button&gt;<!--}$$
+$$ {&lt;script&gt;{&lt;button&gt;Test Button&lt;/button&gt;<!--}&lt;/script&gt;$$
 
-$$\&#x3C;style&#x3E;{property:value}&#x3C;/style&#x3E;{}$$
+
+
+
+
+
+
+
+
+
+
+
