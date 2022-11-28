@@ -8,4 +8,4 @@
 
 $$\<script>{&lt;button&gt;Test Button&lt;/button&gt;<!--}$$
 
-{{constructor.constructor('alert(1)')()}}
+$$\&#x3C;style&#x3E;{property:value}&#x3C;/style&#x3E;{}$$
